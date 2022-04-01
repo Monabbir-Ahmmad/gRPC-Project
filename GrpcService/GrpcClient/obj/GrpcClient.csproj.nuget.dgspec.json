@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcClient\\GrpcClient.csproj": {}
+    "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcClient\\GrpcClient.csproj": {}
   },
   "projects": {
-    "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcClient\\GrpcClient.csproj": {
+    "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcClient\\GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcClient\\GrpcClient.csproj",
+        "projectUniqueName": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcClient\\GrpcClient.csproj",
         "projectName": "GrpcClient",
-        "projectPath": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcClient\\GrpcClient.csproj",
+        "projectPath": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcClient\\GrpcClient.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcClient\\obj\\",
+        "outputPath": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

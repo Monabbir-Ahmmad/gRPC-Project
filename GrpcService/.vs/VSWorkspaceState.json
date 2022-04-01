@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GrpcClient",
+    "\\GrpcServer",
+    "\\GrpcServer\\Properties"
+  ],
+  "SelectedNode": "\\GrpcServer\\Protos",
+  "PreviewInSolutionExplorer": false
+}

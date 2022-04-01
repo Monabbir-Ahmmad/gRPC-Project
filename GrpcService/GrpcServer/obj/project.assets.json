@@ -1841,11 +1841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcServer\\GrpcServer.csproj",
+      "projectUniqueName": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcServer\\GrpcServer.csproj",
       "projectName": "GrpcServer",
-      "projectPath": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcServer\\GrpcServer.csproj",
+      "projectPath": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcServer\\GrpcServer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Software engineering\\GitHub\\GRPC\\GrpcService\\GrpcServer\\obj\\",
+      "outputPath": "D:\\Software engineering\\GitHub\\gRPC-Project\\GrpcService\\GrpcServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
