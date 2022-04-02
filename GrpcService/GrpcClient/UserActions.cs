@@ -41,6 +41,8 @@ namespace GrpcClient
             LoginReply? reply = await client.LoginAsync(new LoginRequest { Email = email, Password = password });
 
             Console.WriteLine(reply.Message);
+            if (reply.Success)
+                Console.WriteLine("User ID: " + reply.UserID);
         }
     }
 }

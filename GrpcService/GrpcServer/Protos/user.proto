@@ -28,4 +28,5 @@ message LoginRequest {
 message LoginReply {
 	bool success = 1;
 	string message = 2;
+	int32 userID = 3;
 }

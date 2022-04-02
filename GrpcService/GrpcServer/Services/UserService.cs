@@ -33,7 +33,8 @@ namespace GrpcServer.Services
             return Task.FromResult(new LoginReply
             {
                 Success = userID >= 0,
-                Message = userID >= 0 ? "Login successful. User id: " + userID : "Login failed. Wrong credentials."
+                Message = userID >= 0 ? "Login successful." : "Login failed. Wrong credentials.",
+                UserID = userID,
             });
         }
     }
